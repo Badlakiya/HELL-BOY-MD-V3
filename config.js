@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['917561823024'] //ur owner number
-global.ownername = "𝛨𝛴𝐿𝐿 𝛣𝛳𝑌"
-global.ytname = "YT: ʜᴇʟʟ ʙᴏʏ" //ur yt chanel name
-global.socialm = "GitHub: HELLBOY7561" //ur github or insta name
+global.owner = ['94770611075'] //ur owner number
+global.ownername = "x_ᴇxᴘᴇʀᴛ_x"
+global.ytname = "YT: x_ᴇxᴘᴇʀᴛ_x" //ur yt chanel name
+global.socialm = "GitHub: x_ᴇxᴘᴇʀᴛ_x" //ur github or insta name
 global.location = "India, Kerala, Idukki" //ur location
 
 //bot bombdy
 global.botname = "ʜᴇʟʟ ʙᴏʏ ᴍᴅ" //ur bot name
-global.websitex = "https://youtube.com/channel/UCWOF5p3b7rRlEgN-f3S3V0w" //ur website
+global.websitex = "https://t.me/trxexpertt" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "ʜᴇʟʟ ʙᴏʏ ᴍᴅ ʙʏ"
 global.author = "𝛨𝛴𝐿𝐿 𝛣𝛳𝑌"
 global.themeemoji = "❏"
 global.reactmoji = "🌝"
-global.ownertag = ['917561823024'] //ur owner tag
-global.ownernummenu = ['917561823024'] //ur owner number in menu and all
-global.watermark = "ʜᴇʟʟ ʙᴏʏ ᴍᴅ" //ur watermark
-global.botscript = "https://github.com/HELLBOY7561/HELL-BOY-MD-V3"
-global.linkz1 = "https://chat.whatsapp.com/CoyDq2bXKMzEhS27ttAX7U"
-global.linkz2 = "https://chat.whatsapp.com/CoyDq2bXKMzEhS27ttAX7U"
+global.ownertag = ['94770611075'] //ur owner tag
+global.ownernummenu = ['94770611075'] //ur owner number in menu and all
+global.watermark = "x_ᴇxᴘᴇʀᴛ_x" //ur watermark
+global.botscript = "https://chat.whatsapp.com/Go9cBxSneUpGDbl6gKdF7E"
+global.linkz1 = "https://chat.whatsapp.com/Go9cBxSneUpGDbl6gKdF7E"
+global.linkz2 = "https://chat.whatsapp.com/Go9cBxSneUpGDbl6gKdF7E"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
